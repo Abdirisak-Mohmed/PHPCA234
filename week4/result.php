@@ -1,9 +1,4 @@
 <?php
-// ============================================================
-// result.php - Bogga natiijada (Tailwind CSS)
-// Wuxuu muujiyaa xogta ardayga ee la gudbiyay, qaab miis (table) ah
-// ============================================================
-
 session_start();
 
 // Haddii xog session-ka ku jirin (tusaale: qof si toos ah u furay bogga),

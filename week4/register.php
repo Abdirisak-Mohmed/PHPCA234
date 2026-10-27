@@ -1,10 +1,4 @@
 <?php
-// ============================================================
-// register.php - Foomka diiwaangelinta ardayga (Tailwind CSS)
-// Faylkan wuxuu sameeyaa: muujinta foomka + xaqiijinta (validation)
-// + keydinta sawirka + u gudbinta result.php haddii wax walba sax yihiin
-// ============================================================
-
 // Bilaw session si xogta ardayga loogu wareejiyo result.php
 session_start();
 
